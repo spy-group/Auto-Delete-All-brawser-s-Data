@@ -1,10 +1,4 @@
-Writing a detailed README for GitHub is crucial for helping users understand your project quickly and effectively. Here's a comprehensive template you can use to create your README file:
-
----
-
-# Project Title
-
-Brief description of your project.
+### Brief description of your project.
 
 ## Table of Contents
 
