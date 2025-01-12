@@ -1,8 +1,8 @@
-### Privacy Guard
+# Privacy Guard
 
 
 
-# Table of Contents
+## Table of Contents
 
 - [Project Title](#project-title)
   - [Table of Contents](#table-of-contents)
